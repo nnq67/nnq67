@@ -1,8 +1,5 @@
 # 💫About Me :
-Study Information Technology in University of Information Technology - VNUHCM
-Interested in Web Development, Mobile App Development, IoT
-Currently learning: Web Development
-Contact: 23521326@gm.uit.edu.vn 
+Hi there! I am currently a student majoring in Information Technology at the University of Information Technology - VNUHCM. Driven by a particular passion for software development, I am constantly exploring and learning about Web Development, Mobile App Development, and the Internet of Things (IoT). At present, I am deeply focused on acquiring and practicing skills in Web Development. For any inquiries or collaboration opportunities, please feel free to contact me at: 23521326@gm.uit.edu.vn.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/quyen.nguyen.524760/) 
